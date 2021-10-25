@@ -1,0 +1,15 @@
+/Users/danny/PrimeProjects/tier2/Assignments/dotnet-hello-world/bin/Debug/net5.0/dotnet-hello-world.deps.json
+/Users/danny/PrimeProjects/tier2/Assignments/dotnet-hello-world/bin/Debug/net5.0/dotnet-hello-world.runtimeconfig.json
+/Users/danny/PrimeProjects/tier2/Assignments/dotnet-hello-world/bin/Debug/net5.0/dotnet-hello-world.runtimeconfig.dev.json
+/Users/danny/PrimeProjects/tier2/Assignments/dotnet-hello-world/bin/Debug/net5.0/dotnet-hello-world.dll
+/Users/danny/PrimeProjects/tier2/Assignments/dotnet-hello-world/bin/Debug/net5.0/ref/dotnet-hello-world.dll
+/Users/danny/PrimeProjects/tier2/Assignments/dotnet-hello-world/bin/Debug/net5.0/dotnet-hello-world.pdb
+/Users/danny/PrimeProjects/tier2/Assignments/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.csproj.AssemblyReference.cache
+/Users/danny/PrimeProjects/tier2/Assignments/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danny/PrimeProjects/tier2/Assignments/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.AssemblyInfoInputs.cache
+/Users/danny/PrimeProjects/tier2/Assignments/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.AssemblyInfo.cs
+/Users/danny/PrimeProjects/tier2/Assignments/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.csproj.CoreCompileInputs.cache
+/Users/danny/PrimeProjects/tier2/Assignments/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.dll
+/Users/danny/PrimeProjects/tier2/Assignments/dotnet-hello-world/obj/Debug/net5.0/ref/dotnet-hello-world.dll
+/Users/danny/PrimeProjects/tier2/Assignments/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.pdb
+/Users/danny/PrimeProjects/tier2/Assignments/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.genruntimeconfig.cache
