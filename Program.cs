@@ -32,18 +32,20 @@ public class LoveDetector
 }
 
 // You only need one kata (need clarification on this)
+// This solution was brought forward in lecture
+// .Equals is weird 
 public class Kata
 {
   public static bool Check(object[] a, object x)
   {
-    if (a.Equals(x))
-  {
-    return true;
-  }
-    else
-  {
+    foreach (object i in a)
+      {
+        if (i.Equals(x))
+          {
+            return true;
+          }
+      }
     return false;
-  }
   }
 }
 
